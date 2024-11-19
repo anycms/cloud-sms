@@ -1,0 +1,10 @@
+[package]
+name = "cloud-sms"
+version = "0.0.0"
+edition = "2021"
+homepage = "https://github.com/anycms/cloud-sms"
+authors = ["Liangdi <wu@liangdi.me>"]
+description = "Cloud provider SMS service sdk for Rust."
+license = "MIT"
+
+[dependencies]
